@@ -1,2 +1,2 @@
 # TimeCapsuleMount
-Mount a shared folder in time capsule with AppleScript
+Mount a shared folder of TimeCapsule with AppleScript
