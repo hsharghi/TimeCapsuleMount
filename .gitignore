@@ -1,0 +1,15 @@
+hadi.scpt
+hadi.app/Contents/Info.plist
+hadi.app/Contents/PkgInfo
+hadi.app/Contents/MacOS/applet
+hadi.app/Contents/Resources/applet.icns
+hadi.app/Contents/Resources/applet.rsrc
+hadi.app/Contents/Resources/description.rtfd/TXT.rtf
+hadi.app/Contents/Resources/Scripts/main.scpt
+media.app/Contents/Info.plist
+media.app/Contents/PkgInfo
+media.app/Contents/MacOS/applet
+media.app/Contents/Resources/applet.icns
+media.app/Contents/Resources/applet.rsrc
+media.app/Contents/Resources/description.rtfd/TXT.rtf
+media.app/Contents/Resources/Scripts/main.scpt
